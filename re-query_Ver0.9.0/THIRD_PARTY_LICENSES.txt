@@ -1,0 +1,26 @@
+Excechenger 本体のソースコードは MIT License です（LICENSE を参照）。
+
+実行ファイルに同梱される第三者コンポーネントには、それぞれ別のライセンスが適用されます。
+
+PySide6 / Qt
+  License: GNU Lesser General Public License v3 (LGPLv3)
+  https://www.qt.io/licensing/
+  https://doc.qt.io/qtforpython-6/licenses.html
+  Qt ライブラリは動的リンク（DLL）として同梱しています。
+  LGPLv3 に従い、これらのライブラリを差し替えて利用できます。
+
+openpyxl
+  License: MIT
+  https://foss.heptapod.net/openpyxl/openpyxl
+
+lxml
+  License: BSD
+  https://lxml.de/
+
+Python
+  License: PSF License
+  https://docs.python.org/3/license.html
+
+PyInstaller bootloader
+  License: GPL with PyInstaller bootloader exception
+  https://github.com/pyinstaller/pyinstaller/blob/develop/COPYING.txt
